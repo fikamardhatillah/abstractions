@@ -1,0 +1,3 @@
+D:\halo\abstraction\abstraction\obj\Debug\netcoreapp3.0\abstraction.csprojAssemblyReference.cache
+D:\halo\abstraction\abstraction\obj\Debug\netcoreapp3.0\abstraction.AssemblyInfoInputs.cache
+D:\halo\abstraction\abstraction\obj\Debug\netcoreapp3.0\abstraction.AssemblyInfo.cs
